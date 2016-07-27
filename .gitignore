@@ -3,6 +3,5 @@ reports
 *.log
 .DS_Store
 dist
-lib
 .idea
 coverage
